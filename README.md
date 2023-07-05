@@ -1,4 +1,4 @@
-<h4 align="left">#👋 Hi there <br><br>I'm guilherme, a developer passionate about technology and science. Since high school I've dreamed of working with programming and I'm chasing this dream.<br><br>#🚀 Expertise<br><br>My main focus is front-end development, where I specialize in building interactive screens, user relationships, among others.<br>I decided to work and study in the front-end area because I would like to change the way of seeing a website, with beautiful designs, features to make life easier for users, and other things!<br><br>#Technologies🖥️</h4>
+<h6 align="left">#👋 Hi there <br><br>I'm guilherme, a developer passionate about technology and science. Since high school I've dreamed of working with programming and I'm chasing this dream.<br><br>#🚀 Expertise<br><br>My main focus is front-end development, where I specialize in building interactive screens, user relationships, among others.<br>I decided to work and study in the front-end area because I would like to change the way of seeing a website, with beautiful designs, features to make life easier for users, and other things!<br><br>#Technologies🖥️</h6>
 
 ###
 
@@ -50,4 +50,11 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-![Snake animation](https://github.com/GuiDev25/GuiDev25/blog/output/github-contribution-grid-snake.svg)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GuiDev25/GuiDev25/output/snake.svg" alt="Snake animation" />
+
+###
