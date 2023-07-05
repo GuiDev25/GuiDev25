@@ -1,4 +1,4 @@
-<h6 align="left">#👋 Hi there <br><br>I'm guilherme, a developer passionate about technology and science. Since high school I've dreamed of working with programming and I'm chasing this dream.<br><br>#🚀 Expertise<br><br>My main focus is front-end development, where I specialize in building interactive screens, user relationships, among others.<br>I decided to work and study in the front-end area because I would like to change the way of seeing a website, with beautiful designs, features to make life easier for users, and other things!<br><br>#Technologies🖥️</h6>
+<h4 align="left">#👋 Hi there <br><br>I'm guilherme, a developer passionate about technology and science. Since high school I've dreamed of working with programming and I'm chasing this dream.<br><br>#🚀 Expertise<br><br>My main focus is front-end development, where I specialize in building interactive screens, user relationships, among others.<br>I decided to work and study in the front-end area because I would like to change the way of seeing a website, with beautiful designs, features to make life easier for users, and other things!<br><br>#Technologies🖥️</h4>
 
 ###
 
