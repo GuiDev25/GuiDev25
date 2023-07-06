@@ -55,6 +55,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GuiDev25/GuiDev25/output/snake.svg" alt="Snake animation" />
 
 ###
