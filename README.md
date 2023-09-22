@@ -1,5 +1,5 @@
-<h4 align="left">#👋 Olá <br><br>Eu sou Guilherme, um desenvolvedor apaixonado por tecnologia e ciência. Desde o ensino médio, sonho em trabalhar com programação, e estou buscando esse sonho.<br><br>#🚀 Expecialização<br><br>Meu foco principal é o desenvolvimento front-end, onde me especializo na construção de telas interativas, relacionamentos com o usuário, entre outros. Porém, também estudo muito a parte de desenvolvimento back-end, já que é essêncial para desenvolver uma aplicação completa.<br>Decidi trabalhar e estudar na área de front-end porque gostaria de mudar a forma de ver um site, com designs bonitos, recursos para facilitar a vida dos usuários e outras coisas!<br><br>#Tecnologias🖥️</h4>
-
+<h4 align="left">#👋 Olá <br><br>Eu sou Guilherme, um desenvolvedor apaixonado por tecnologia e ciência. Desde o ensino médio, sonho em trabalhar com programação, e estou buscando esse sonho.<br><br>#🚀 Expecialização<br><br>Meu foco principal é o desenvolvimento front-end, onde me especializo na construção de telas interativas, relacionamentos com o usuário, entre outros. Porém, também estudo muito a parte de desenvolvimento back-end, já que é essêncial para desenvolver uma aplicação completa.<br>Decidi trabalhar e estudar na área de front-end porque gostaria de mudar a forma de ver um site, com designs bonitos, recursos para facilitar a vida dos usuários e outras coisas!<br><br>🖥️</h4>
+<h4>#Tecnologias</h4>
 ###
 
 <div align="left">
