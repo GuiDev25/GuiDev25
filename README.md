@@ -1,4 +1,4 @@
-<h4 align="left">#👋 Olá <br><br>Eu sou Guilherme, um desenvolvedor apaixonado por tecnologia e ciência. Desde o ensino médio, sonho em trabalhar com programação, e estou buscando esse sonho.<br><br>#🚀 Expecialização<br><br>Meu foco principal é o desenvolvimento front-end, onde me especializo na construção de telas interativas, relacionamentos com o usuário, entre outros.<br>Porém, há algum tempo, tenho me dedicado a aprender também a área de backend, desenvolvendo minhas próorias aplicações completas(FullStack).<br><br>#Tecnologias🖥️</h4>
+<h4 align="left">#👋 Olá <br><br>Eu sou Guilherme,desenvolvedor fullstack com experiência no setor educacional.<br><br>#Tecnologias🖥️</h4>
 
 ###
 
